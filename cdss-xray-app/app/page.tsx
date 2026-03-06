@@ -88,7 +88,7 @@ export default function Home() {
                   <div className="absolute -inset-4 bg-blue-500/10 dark:bg-blue-500/20 rounded-xl rotate-6"></div>
                   <div className="relative bg-white dark:bg-gray-800 p-3 rounded-xl shadow-lg">
                     <img 
-                      src="/assets/x-ray-images/00000001_000.png" 
+                      src="/assets/x-ray-images/00000001_001.png" 
                       alt="Sample chest X-ray with AI analysis" 
                       className="rounded-lg w-full h-auto"
                       width={600}

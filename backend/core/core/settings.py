@@ -120,10 +120,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 # For Next.js integration
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",  # Your Next.js address
-    "https://cdss-xray-aj6yplyd2-randombigboy4-bits-projects.vercel.app/"
-]
+CORS_ALLOWED_ORIGINS = True
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
